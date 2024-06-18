@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p align="left">Me chamo Danielle!!</p>
 
 ###
-
+---
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ElleDias/ElleDias/output/snake.svg" alt="Snake animation" />
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
+--
 <div align="center">
   <img height="400" src="https://i.pinimg.com/originals/b9/d3/32/b9d33219ed886462bda14d790f81d388.gif"  />
 </div>
