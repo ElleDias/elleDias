@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 
 ###
 
+---
 <h4 align="left">Programming Languages</h4>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -65,18 +65,18 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
 </div>
 
+---
 ###
 
 <h4 align="left">Tools & Frameworks</h4>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
 </div>
 
 ###
---
+---
 <div align="center">
   <img height="400" src="https://i.pinimg.com/originals/b9/d3/32/b9d33219ed886462bda14d790f81d388.gif"  />
 </div>
