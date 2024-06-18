@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Olá, me chamo Danielle!!   
-###### Bem vindos ao meu perfil do GitHub👋 
-
+# Olá, seja Bem vindos ao meu perfil!!   
+#### Me chamo Danielle👋 
+---
 
