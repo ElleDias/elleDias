@@ -17,8 +17,13 @@ Here are some ideas to get you started:
 <h2 align="left">Olá, seja Bem vindos ao meu perfil!!</h2>
 
 ###
-
-<p align="left">Me chamo Danielle!!</p>
+<details>
+  <summary>
+    -☁️Obrigada a todos que entraram!!
+    
+   *Sobre mim* </summary>
+    -Me chamo Danielle, sou uma desenvolvedora iniciante!!
+<details>
 
 ###
 ---
