@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 ---
 <br clear="both">
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/ElleDias/ElleDias/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
@@ -42,7 +44,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img height="400" src="https://th.bing.com/th/id/R.2a3a58b43f1df9b985d804d2f13cbc84?rik=Q4pVdodvKbAO7g&riu=http%3a%2f%2fpa1.narvii.com%2f6140%2fee9310bc5ad93d3a1f48263df8e8e6560aa8edec_hq.gif&ehk=if%2bFinjJ5MTnYCxKO1WiZS0FDY5p699hiH7SPyoUKcQ%3d&risl=&pid=ImgRaw&r=0"  />
+  <img height="300" src="https://giffiles.alphacoders.com/108/108245.gif"  />
 </div>
 
 ###
