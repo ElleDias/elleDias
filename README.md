@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 ###
 <details>
   <summary>
+   𝐒𝐨𝐛𝐫𝐞 𝐦𝐢𝐦 </summary>
     -☁️Obrigada a todos que visualizaram meu perfil!!
-    
-   Sobre mim </summary>
+  <br>
     -Me chamo Danielle, sou uma desenvolvedora iniciante!!
 </details>
 
