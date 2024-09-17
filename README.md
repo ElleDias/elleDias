@@ -83,7 +83,14 @@ Here are some ideas to get you started:
 ###
 ---
 <div align="center">
-  <img height="400" src="https://i.pinimg.com/originals/b9/d3/32/b9d33219ed886462bda14d790f81d388.gif"  />
+  <img height="400"  src="https://i.pinimg.com/originals/b9/d3/32/b9d33219ed886462bda14d790f81d388.gif"  />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
 </div>
 
 ###
@@ -94,14 +101,16 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-</div>
-
 ###
+###
+<br clear="both">
+
+<img align="left" height="150" src="https://i.gifer.com/7d1.gif"  />
+
+
+<!-- Dropdown -->
+  
+    Oʙʀɪɢᴀᴅᴀ ᴀ ᴛᴏᴅᴏs qᴜᴇ ᴠɪsᴜᴀʟɪᴢᴀʀᴀᴍ ᴍᴇᴜ ᴘᴇʀꜰɪʟ
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ElleDias/count.svg?"  />
@@ -111,9 +120,5 @@ Here are some ideas to get you started:
 
 <img align="right" height="100" src="https://media.tenor.com/8WVGtF092rQAAAAi/happy-sumikko-gurashi.gif"  />
 
-###
-<details>
-  <summary>
-  </summary>
-  Oʙʀɪɢᴀᴅᴀ ᴀ ᴛᴏᴅᴏs qᴜᴇ ᴠɪsᴜᴀʟɪᴢᴀʀᴀᴍ ᴍᴇᴜ ᴘᴇʀꜰɪʟ
-</details>
+
+  
