@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 <details>
   <summary>
    𝐒𝐨𝐛𝐫𝐞 𝐦𝐢𝐦 </summary>
-    -☁️Obrigada a todos que visualizaram meu perfil!!
+    ✧Me chamo Danielle, tenho 16 anos, e curso Desenvolvimento de Sistemas no Senai !!
   <br>
-    -Me chamo Danielle, sou uma desenvolvedora iniciante!!
 </details>
 
 
@@ -113,3 +112,8 @@ Here are some ideas to get you started:
 <img align="right" height="100" src="https://media.tenor.com/8WVGtF092rQAAAAi/happy-sumikko-gurashi.gif"  />
 
 ###
+<details>
+  <summary>
+  </summary>
+  Oʙʀɪɢᴀᴅᴀ ᴀ ᴛᴏᴅᴏs qᴜᴇ ᴠɪsᴜᴀʟɪᴢᴀʀᴀᴍ ᴍᴇᴜ ᴘᴇʀꜰɪʟ
+</details>
