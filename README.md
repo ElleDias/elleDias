@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-
-<h2 align="center">౨ৎ⋆˚｡⋆  𝙊𝙤𝙞, 𝙨𝙚𝙟𝙖 𝙗𝙚𝙢 𝙫𝙞𝙣𝙙𝙤s!  ⋆౨ৎ⋆˚｡</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&weight=500&size=22&pause=1000&color=0DFF50&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
 ###
 <details>
@@ -74,6 +77,8 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="30" alt="json logo"  />
 </div>
 
 ---
@@ -83,6 +88,7 @@ Here are some ideas to get you started:
 
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="25" alt="figma logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="vscode logo"  />
 </div>
 
